@@ -49,7 +49,7 @@ def int_to_str(value):
     :param value: The integer value to convert.
     :return: The string value.
     """
-    return string(value)
+    return str(value)
 
 def float_to_str(value):
     """
@@ -58,6 +58,6 @@ def float_to_str(value):
     :param value: The float value to convert.
     :return: The string value.
     """
-    return string(value)
+    return str(value)
 
 
